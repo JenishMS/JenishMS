@@ -1,6 +1,8 @@
 ### Hello You Welcome! 👋
 
 <img src="https://komarev.com/ghpvc/?username=JenishMS&label=Profile%20views&color=orange&style=flat" alt="JenishMS"/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JenishMS?tab=followers)
 <!-- ![JenishMS's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JenishMS&theme=orange-green) -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
