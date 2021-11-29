@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=JenishMS&label=Profile%20views&color=orange&style=flat" alt="JenishMS"/>
 <!-- ![JenishMS's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JenishMS&theme=orange-green) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
   <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-</a>
+</a> -->
 
 <!--
 **JenishMS/JenishMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
