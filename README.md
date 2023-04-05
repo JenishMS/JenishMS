@@ -9,13 +9,13 @@
   <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
 </a> -->
 
-<p align="left"> <a href="https://twitter.com/JeniAbi7" target="blank"><img src="https://img.shields.io/twitter/follow/JeniAbi7?logo=twitter&style=for-the-badge" alt="example" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JenishMS7" target="blank"><img src="https://img.shields.io/twitter/follow/JenishMS7?logo=twitter&style=for-the-badge" alt="example" /></a> </p>
 
 <!-- **JenishMS/JenishMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning **Azure Devops, Next.JS**
-- 👨‍💻 All of my projects are available at [https://JenishMS.github.io](https://JenishMS.github.io)
+- 👨‍💻 All of my projects are available at [https://jenishms.github.io](https://jenishms.github.io)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **Angular, Javascript, Flutter, NodeJS, CSS, SCSS**
