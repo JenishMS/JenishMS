@@ -1,4 +1,4 @@
-### Hello You Welcome! 👋
+# Hello You Welcome! 👋
 
 <img src="https://komarev.com/ghpvc/?username=JenishMS&label=Profile%20views&color=orange&style=flat" alt="JenishMS"/>
 
@@ -11,10 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/JenishMS7" target="blank"><img src="https://img.shields.io/twitter/follow/JenishMS7?logo=twitter&style=for-the-badge" alt="example" /></a> </p>
 
+## 🧠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,dart,python,angular,flutter,astro,react,nodejs,Nest.JS,fastapi,mongodb,postgresql,azure,git,docker,vscode,postman)](https://skillicons.dev)
+
 <!-- **JenishMS/JenishMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning **Azure Devops**
+- 🌱 I’m currently learning **iOT**
 - 👨‍💻 All of my projects are available at [https://jenishms.github.io](https://jenishms.github.io)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -22,7 +25,7 @@
 <!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: Jeni
 <!-- - ⚡ Fun fact: ... -->
-### Created Packages
+## Created Packages
   - Flutter package for twitter authentication **[twitter_auth_v2](https://pub.dev/packages/twitter_auth_v2)** </br></br>
     [![pub package](https://img.shields.io/pub/v/twitter_auth_v2.svg)](https://pub.dev/packages/twitter_auth_v2) 
     [![likes](https://img.shields.io/pub/likes/twitter_auth_v2?logo=dart)](https://pub.dev/packages/twitter_auth_v2/score) 
